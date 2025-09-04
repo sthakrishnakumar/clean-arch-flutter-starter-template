@@ -1,7 +1,7 @@
-# Naasa X
+# My App
 
 ## Project Overview
-Naasa X is a Flutter-based application structured using the **Clean Architecture** pattern with a **feature-based** modular approach.
+My App is a Flutter-based application structured using the **Clean Architecture** pattern with a **feature-based** modular approach.
 
 ## Project Structure
 The project follows a clean and organized structure:
